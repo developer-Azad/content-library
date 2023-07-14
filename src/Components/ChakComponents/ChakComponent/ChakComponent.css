@@ -1,0 +1,20 @@
+
+.Button{
+    background-color: #1E2733;
+    width: 90%;
+    border-radius: 0px;
+    color: #637381;
+    
+}
+.Button:hover{
+    background-color: #CEF03F;
+    color: #1E2733;
+    border-radius: 0px;
+}
+.Button:focus {     
+    background-color:#CEF03F;
+    color: #1E2733;
+    border-radius: 0px;
+}
+
+
